@@ -18,11 +18,13 @@ Click the "Install GitHub App" to authorise connecting Slack channel #github-not
 
 Any issues, pulls, commits, releases, deployments in this Gitub repo by authorised collaborators will send a notification to your Slack channel.
 
-6) How does it work"
+6) How does it work? Where's the connection?
+- In Github, go to Settings -> Integration
+- We'll see Slack being integrated with Github.
+- Go to Configure to see more settings and details
 
-
-8) 
-9) 
+7) 
+8)  
 
 
 
